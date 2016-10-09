@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PipeCollider.js">
+    <Files>
+      <File FileName="Assets/Scripts/PipeCollider.js" Line="29" Column="1" />
+      <File FileName="Assets/Scripts/Block (2).js" Line="3" Column="1" />
+      <File FileName="Assets/Scripts/Block (1).js" Line="19" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

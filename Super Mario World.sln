@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F645B30E-21AB-AED4-07CE-1A288729B272}") = "Super Mario World", "Assembly-CSharp-firstpass.csproj", "{5144B4B0-3526-4B58-8670-D3F4FD2A85CF}"
+EndProject
+Project("{F645B30E-21AB-AED4-07CE-1A288729B272}") = "Super Mario World", "Assembly-CSharp-Editor.csproj", "{ADCA2949-9384-14E2-2348-A4E8254B9218}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5144B4B0-3526-4B58-8670-D3F4FD2A85CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5144B4B0-3526-4B58-8670-D3F4FD2A85CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5144B4B0-3526-4B58-8670-D3F4FD2A85CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5144B4B0-3526-4B58-8670-D3F4FD2A85CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADCA2949-9384-14E2-2348-A4E8254B9218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCA2949-9384-14E2-2348-A4E8254B9218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCA2949-9384-14E2-2348-A4E8254B9218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCA2949-9384-14E2-2348-A4E8254B9218}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

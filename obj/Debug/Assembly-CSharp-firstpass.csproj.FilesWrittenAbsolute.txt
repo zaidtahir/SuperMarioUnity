@@ -1,0 +1,17 @@
+/Users/zaidtahir/Super Mario World/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/zaidtahir/Super Mario World/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/zaidtahir/Super Mario World/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/zaidtahir/Super Mario World/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/zaidtahir/Super Mario World/Temp/bin/Debug/UnityEngine.dll
+/Users/zaidtahir/Super Mario World/Temp/bin/Debug/UnityEditor.dll
+/Users/zaidtahir/Super Mario World/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/zaidtahir/Super Mario World/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/zaidtahir/Super Mario World/Temp/bin/Debug/Mono.Cecil.dll
+/Users/zaidtahir/Super Mario World/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/zaidtahir/Super Mario World/Temp/bin/Debug/Unity.DataContract.dll
+/Users/zaidtahir/Super Mario World/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/zaidtahir/Super Mario World/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/zaidtahir/Super Mario World/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/zaidtahir/Super Mario World/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/zaidtahir/Super Mario World/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/zaidtahir/Super Mario World/Temp/bin/Debug/Mono.Cecil.Mdb.dll
